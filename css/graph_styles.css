@@ -1,0 +1,10 @@
+#container {
+	min-width: 310px;
+	max-width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+}
+
+.uk-margin {
+  text-align: center;
+}
