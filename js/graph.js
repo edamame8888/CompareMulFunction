@@ -13,7 +13,7 @@ Highcharts.chart('container', {
         title:{
             text: 'n'
         },
-        categories: ['2^2','2^4', '2^8', '2^10', '2^12', '2^14', '2^16', '2^18']
+        categories: ['2^2','2^4', '2^6', '2^8', '2^10', '2^12', '2^14', '2^16']
     },
     yAxis: {
         type: 'logarithmic',
